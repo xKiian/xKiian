@@ -1,5 +1,6 @@
+<h2 align="center">
 <img src="https://discord.c99.nl/widget/theme-1/691624547941744651.png"/>
-
+</h2>
 
 > **Warning**
 > This user is a registered sex offender.
