@@ -1,12 +1,6 @@
 <p href="https://discord.gg/QbWGVZvRWc" align="center">
 <img src="https://discord.c99.nl/widget/theme-1/691624547941744651.png"/>
 	
-	
-	
-
-
-<img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
-
 
 
 📩・**Want to reach? Join my [discord](https://discord.com/invite/QbWGVZvRWc)**
@@ -54,5 +48,8 @@ class Attributes(xKian):
 	
 
 
+
 ```
 
+
+<img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
