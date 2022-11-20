@@ -2,13 +2,13 @@
 <img src="https://discord.c99.nl/widget/theme-1/691624547941744651.png"/>
 	
 
-Join my [discord](https://discord.com/invite/QbWGVZvRWc)**
+Join my [discord](https://discord.com/invite/QbWGVZvRWc)
 
 
 </p>
 
 
-<img src=https://github-readme-stats.vercel.app/api?username=sfx2me&show_icons=true&theme=tokyonight>
+<img src=https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight>
 
 
 > **Warning**
