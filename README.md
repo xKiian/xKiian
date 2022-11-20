@@ -2,9 +2,7 @@
 <img src="https://discord.c99.nl/widget/theme-1/691624547941744651.png"/>
 	
 
-
-📩・**Want to reach? Join my [discord](https://discord.com/invite/QbWGVZvRWc)**
-
+Join my [discord](https://discord.com/invite/QbWGVZvRWc)**
 
 
 </p>
