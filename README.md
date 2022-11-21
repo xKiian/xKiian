@@ -5,9 +5,9 @@
 Join my [discord](https://discord.com/invite/QbWGVZvRWc)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
 
 > **Warning**
 > This user is a registered sex offender.
