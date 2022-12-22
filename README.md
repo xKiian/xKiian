@@ -1,5 +1,5 @@
 <p href="https://discord.gg/QbWGVZvRWc" align="center">
-<img src="https://discord.c99.nl/widget/theme-1/691624547941744651.png">
+<img src="https://discord.c99.nl/widget/theme-1/306378260240007170.png">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
