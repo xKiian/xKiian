@@ -17,7 +17,7 @@ class Attributes(xKian):
 	
 	@staticmethod
 	def contact(self) -> tuple:
-	    discord  = "xKian#3113"
+	    discord  = "xKian#4620"
 	    
 	    return discord
 	
