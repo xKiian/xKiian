@@ -3,7 +3,6 @@
 
 
 <img href="https://discord.gg/deobf", src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
-</p>
 
 
 > **Warning**
@@ -46,3 +45,4 @@ class Attributes(xKian):
 
 
 <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
+</p>
