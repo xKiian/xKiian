@@ -1,8 +1,8 @@
-<p href="https://discord.gg/QbWGVZvRWc" align="center">
-<img src="https://discord.c99.nl/widget/theme-1/1060721821047078953.png">
+<p href="https://discord.gg/deobf",  align="center">
+<img href="https://discord.gg/deobf", src="https://discord.c99.nl/widget/theme-1/1060721821047078953.png">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
+<img href="https://discord.gg/deobf", src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
 </p>
 
 
