@@ -18,8 +18,9 @@ class Attributes(xKian):
 	@staticmethod
 	def contact(self) -> tuple:
 	    discord  = "xKian#4620"
+	    telegram = "xKiian"
 	    
-	    return discord
+	    return discord, telegram
 	
 	@staticmethod
 	def life(self) -> tuple:
