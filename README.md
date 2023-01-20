@@ -34,7 +34,7 @@ class Attributes(xKian):
 			'intermediate': ['python'],
 			'learning': ['js','c++']
 		}
-		specialities  = ['web/app reverse engineering', 'discord bots'. 'automation']
+		specialities  = ['reverse engineering', 'automation']
 		environment = 'vscode'
 		
 		return langs, specialities, environment
