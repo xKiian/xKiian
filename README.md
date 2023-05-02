@@ -11,38 +11,43 @@
 
 
 ```python
-class Attributes(xKian):
-	def __init__(self) -> None:
-	    pass
-	
-	@staticmethod
-	def contact(self) -> tuple:
-	    discord  = "xKian#1260"
-	    telegram = "xKiian"
-	    
-	    return discord, telegram
-	
-	@staticmethod
-	def life(self) -> tuple:
-		langs         = ['German', 'English']
-		age           = None
-		
-		return langs, age
-	
-	@staticmethod
-	def coding(self) -> tuple:
-		langs = {
-			'intermediate': ['python'],
-			'learning': ['js','c++']
-		}
-		specialities  = ['reverse engineering', 'automation']
-		environment = 'vscode'
-		
-		return langs, specialities, environment
-	
+from abc import ABCMeta, abstractstaticmethod
 
 
+class IxKian(metaclass=ABCMeta):
+    @abstractstaticmethod
+    def contact():
+        pass
 
+    @abstractstaticmethod
+    def life():
+        pass
+
+    @abstractstaticmethod
+    def coding():
+        pass
+
+
+class Attributes(IxKian):
+    @staticmethod
+    def contact() -> tuple:
+        discord: str = "xKian#1260"
+        telegram: str = "xKiian"
+
+        return discord, telegram
+
+    @staticmethod
+    def life() -> tuple:
+        langs = ("German", "English")
+
+        return langs
+
+    @staticmethod
+    def coding() -> tuple:
+        text_editor = "vscode"
+        specialities = ["reverse engineering", "automation"]
+        langs = {"intermediate": ["python"], "learning": ["js", "c++"]}
+        return langs, specialities, text_editor
 ```
 
 
