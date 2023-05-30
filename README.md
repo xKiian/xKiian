@@ -1,6 +1,6 @@
 <a align="center" href="https://discord.gg/deobf">Join discord</a>
 <p href="https://discord.gg/deobf"  align="center">
-<img href="https://discord.gg/deobf", src="https://discord.c99.nl/widget/theme-1/1095237433509036032.png">
+<img href="https://discord.gg/deobf", src="https://discord.c99.nl/widget/theme-1/1109128461756407819.png">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
