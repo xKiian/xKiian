@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-1/1109128461756407819.png">
+    <img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
+
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sfx2me&showicons=true&theme=tokyonight">
 
 
 > **Warning**
