@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-1/1109128461756407819.png">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@839267df-3912-44c6-97f4-9e3f0425b716/909098ab-877f-42a2-9940-a6d5e74e7712.png" /></a>
+    <img src="https://wakatime.com/share/@839267df-3912-44c6-97f4-9e3f0425b716/909098ab-877f-42a2-9940-a6d5e74e7712.png" width="500" height="600" />
 </div>
 
 
