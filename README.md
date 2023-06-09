@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-1/1109128461756407819.png">
-    <img src="https://github-readme-stats.vercel.app/api?username=xKiian&showicons=true&theme=tokyonight">
-
+    <figure><embed src="https://wakatime.com/share/@839267df-3912-44c6-97f4-9e3f0425b716/05d2c791-dd85-4ddd-9b6e-0607b959ff1e.svg"></embed></figure>
 </div>
 
 
