@@ -2,7 +2,6 @@
     <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
 <img src="https://discord.c99.nl/widget/theme-1/1109128461756407819.png">
     <br>
-    <img src="https://wakatime.com/share/@839267df-3912-44c6-97f4-9e3f0425b716/909098ab-877f-42a2-9940-a6d5e74e7712.png" width="650" height="350" />
 </div>
 
 <br>
