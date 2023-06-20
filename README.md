@@ -1,9 +1,10 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
-<img src="https://discord.c99.nl/widget/theme-1/1120281808639115286.png">
     <br>
+    <img src="https://discord.c99.nl/widget/theme-1/1120281808639115286.png">
 </div>
 
+ <br>
 <br>
 
 
@@ -47,7 +48,7 @@ class Attributes(IxKian):
     def coding() -> tuple:
         text_editor = "vscode"
         specialities = ["reverse engineering", "automation"]
-        langs = {"intermediate": ["python"], "learning": ["js", "go🔥"]}
+        langs = {"pro": "python", "intermediate": "go", "learning": "js"}
         return langs, specialities, text_editor
 ```
 
