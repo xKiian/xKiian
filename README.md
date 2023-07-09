@@ -1,11 +1,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
-    <br>
 </div>
-
- <br>
-<br>
-
 
 > **Warning**
 > This user is a registered sex offender.
