@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
     <br>
-    <img src="https://discord.c99.nl/widget/theme-1/1120281808639115286.png">
 </div>
 
  <br>
