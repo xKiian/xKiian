@@ -27,8 +27,8 @@ class IxKian(metaclass=ABCMeta):
 class Attributes(IxKian):
     @staticmethod
     def contact() -> tuple:
-        discord: str = "^"
-        telegram: str = "xKiian"
+        discord: str = "0x4b69616e"
+        telegram: str = "xKian"
 
         return discord, telegram
 
