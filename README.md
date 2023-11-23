@@ -1,9 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
 
-> **Warning**
-> This user is a registered sex offender.
-
-
 ```python
 from abc import ABCMeta, abstractstaticmethod
 
@@ -25,7 +21,7 @@ class IxKian(metaclass=ABCMeta):
 class Attributes(IxKian):
     @staticmethod
     def contact() -> tuple:
-        discord: str = "0x4b69616e"
+        discord: str = ".xkian"
         telegram: str = "xKian"
 
         return discord, telegram
