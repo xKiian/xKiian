@@ -40,7 +40,5 @@ class Attributes(IxKian):
         return langs, specialities, text_editor
 ```
 <div style="text-align: center;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xkiian?theme=tokyonight" width="32.5%" style="display: inline-block; margin: 0 10px;">
-<img src="https://raw.githubusercontent.com/xkiian/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="display: inline-block; margin: 0 10px;">
-<img src="https://raw.githubusercontent.com/xkiian/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="display: inline-block; margin: 0 10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkiian&theme=tokyonight" width="32.5%" style="display: inline-block; margin: 0 10px;">
 </div>
