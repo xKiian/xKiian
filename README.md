@@ -3,6 +3,7 @@
   <img height="25" src="https://img.shields.io/github/followers/xkiian?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/xkiian?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
+
 ```python
 from abc import ABCMeta, abstractstaticmethod
 
