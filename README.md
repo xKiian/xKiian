@@ -40,7 +40,7 @@ class Attributes(IxKian):
     def coding() -> tuple:
         text_editor = "vscode"
         specialities = ["reverse engineering", "automation"]
-        langs = {"pro": "python", "intermediate": "go", "learning": "js"}
+        langs = {"pro": "python", "intermediate": "go, c++", "learning": "js"}
         return langs, specialities, text_editor
 ```
 <div style="display: flex; justify-content: center;">
