@@ -40,7 +40,8 @@ class Attributes(IxKian):
         return langs, specialities, text_editor
 ```
 <div style="text-align: center;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkiian&theme=tokyonight" width="32.5%" style="display: inline-block; margin: 0 10px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xkiian&theme=tokyonight" width="32.5%" style="display: inline-block; margin: 0 10px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xkiian&theme=tokyonight&utcOffset=1" width="32.5%" style="display: inline-block; margin: 0 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkiian&theme=tokyonight" width="30%" style="display: inline-block; margin: 0 5px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xkiian&theme=tokyonight" width="30%" style="display: inline-block; margin: 0 5px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xkiian&theme=tokyonight&utcOffset=1" width="30%" style="display: inline-block; margin: 0 5px;">
 </div>
+
