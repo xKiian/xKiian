@@ -39,6 +39,8 @@ class Attributes(IxKian):
         langs = {"pro": "python", "intermediate": "go", "learning": "js"}
         return langs, specialities, text_editor
 ```
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/xkiian/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="display: inline-block; margin: 0 10px;">
+<img src="https://raw.githubusercontent.com/xkiian/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="display: inline-block; margin: 0 10px;">
+<img src="https://raw.githubusercontent.com/xkiian/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="display: inline-block; margin: 0 10px;">
+</div>
