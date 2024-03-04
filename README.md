@@ -23,12 +23,6 @@ class IxKian(metaclass=ABCMeta):
 
 
 class Attributes(IxKian):
-    @staticmethod
-    def contact() -> tuple:
-        discord: str = "¯\_(ツ)_/¯"
-        telegram: str = "xKian"
-
-        return discord, telegram
 
     @staticmethod
     def life() -> tuple:
