@@ -11,7 +11,7 @@ from abc import ABCMeta, abstractstaticmethod
 class IxKian(metaclass=ABCMeta):
     @abstractstaticmethod
     def contact():
-        return ["discord", "telegram"]
+        return 
 
     @abstractstaticmethod
     def life():
