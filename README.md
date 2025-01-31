@@ -41,6 +41,7 @@ class Attributes(xKian):
             "intermediate": "go, c++", 
             "learning": "rust"
         }
+        
         return langs, specialities, text_editor
 ```
 
