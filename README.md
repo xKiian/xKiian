@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-    <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=xkiian&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%">
+    <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=xkiian&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%">
 </p>
 
 ```python
