@@ -45,8 +45,3 @@ class Attributes(xKian):
         return langs, specialities, text_editor
 ```
 
-<p align="center"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xkiian&theme=tokyonight" width="45%"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xkiian&theme=tokyonight" width="45%"> 
-</p> 
-
