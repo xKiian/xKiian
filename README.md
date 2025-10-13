@@ -34,11 +34,11 @@ class Attributes(xKian):
 
     @staticmethod
     def coding() -> tuple:
-        text_editor = ["vscode", "Goland", "Pycharm"]
+        text_editor = ["Goland", "Pycharm", "vscode"]
         specialities = ["reverse engineering", "automation"]
         langs = {
-            "pro": "python", 
-            "intermediate": "go, c++", 
+            "pro": "golang, python", 
+            "intermediate": "c++", 
             "learning": "rust"
         }
         
