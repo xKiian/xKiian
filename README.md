@@ -12,36 +12,56 @@
     <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=xkiian&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%">
 </p>
 
-```python
-from abc import ABCMeta, abstractmethod
+```go
+package xkian
 
+import "fmt"
 
-class xKian(metaclass=ABCMeta):
-    
-    @staticmethod
-    @abstractmethod
-    def contact():
-        discord = ".xkian"
-        return discord
+type Profile interface {
+	Contact() string
+	Languages() []string
+	Coding() CodingProfile
+}
 
-class Attributes(xKian):
+type CodingProfile struct {
+	Editors      []string
+	Specialities []string
+	Languages    map[string][]string
+}
 
-    @staticmethod
-    def life() -> tuple:
-        langs = ("German", "English")
+type XKian struct{}
 
-        return langs
+func (XKian) Contact() string {
+	return ".xkian"
+}
 
-    @staticmethod
-    def coding() -> tuple:
-        text_editor = ["Goland", "Pycharm", "vscode"]
-        specialities = ["reverse engineering", "automation"]
-        langs = {
-            "pro": "golang, python", 
-            "intermediate": "c++", 
-            "learning": "rust"
-        }
-        
-        return langs, specialities, text_editor
+func (XKian) Languages() []string {
+	return []string{"German", "English"}
+}
+
+func (XKian) Coding() CodingProfile {
+	return CodingProfile{
+		Editors:      []string{"GoLand", "PyCharm", "VS Code"},
+		Specialities: []string{"Reverse Engineering", "Automation"},
+		Languages: map[string][]string{
+			"pro":          {"Go", "Python"},
+			"intermediate": {"C++"},
+			"learning":     {"Rust"},
+		},
+	}
+}
+
+func main() {
+	var me Profile = XKian{}
+
+	fmt.Println("discord:", me.Contact())
+	fmt.Println("languages:", me.Languages())
+
+	c := me.Coding()
+	fmt.Println("editors:", c.Editors)
+	fmt.Println("specialities:", c.Specialities)
+	fmt.Println("coding languages:", c.Languages)
+}
+
 ```
 
