@@ -46,7 +46,7 @@ func (XKian) Coding() CodingProfile {
 		Languages: map[string][]string{
 			"pro":          {"Go", "Python"},
 			"intermediate": {"C++"},
-			"learning":     {"Rust"},
+			"learning":     {"WebAssembly"},
 		},
 	}
 }
