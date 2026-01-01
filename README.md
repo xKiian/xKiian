@@ -29,17 +29,17 @@ type CodingProfile struct {
 	Languages    map[string][]string
 }
 
-type XKian struct{}
+type Kian struct{}
 
-func (XKian) Contact() string {
+func (Kian) Discord() string {
 	return ".xkian"
 }
 
-func (XKian) Languages() []string {
+func (Kian) Languages() []string {
 	return []string{"German", "English"}
 }
 
-func (XKian) Coding() CodingProfile {
+func (Kian) Coding() CodingProfile {
 	return CodingProfile{
 		Editors:      []string{"GoLand", "PyCharm", "VS Code"},
 		Specialities: []string{"Reverse Engineering", "Automation"},
@@ -52,9 +52,9 @@ func (XKian) Coding() CodingProfile {
 }
 
 func main() {
-	var me Profile = XKian{}
+	var me Profile = Kian{}
 
-	fmt.Println("discord:", me.Contact())
+	fmt.Println("discord:", me.Discord())
 	fmt.Println("languages:", me.Languages())
 
 	c := me.Coding()
